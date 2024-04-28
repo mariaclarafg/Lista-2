@@ -1,0 +1,1 @@
+# É uma prática em Python que envolve capturar uma exceção e, em seguida, levantar uma nova exceção com detalhes adicionais, enquanto mantém o rastreamento de pilha da exceção original. Isso é útil para fornecer informações mais específicas sobre o erro que ocorreu e ajudar na depuração do código.

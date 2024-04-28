@@ -1,0 +1,1 @@
+# Tratar exceções em módulos e pacotes em Python é crucial para assegurar a solidez e a confiabilidade do código. Isso melhora a experiência do usuário ao apresentar mensagens de erro compreensíveis, permite a detecção de problemas para facilitar a depuração, mantém e evolui o código com segurança, e garante a estabilidade do software.

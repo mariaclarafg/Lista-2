@@ -1,0 +1,1 @@
+# O propósito do bloco finally é assegurar que um certo bloco de código seja executado, independentemente de ocorrer ou não uma exceção durante a execução do código dentro do bloco try

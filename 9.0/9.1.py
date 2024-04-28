@@ -1,0 +1,1 @@
+# Em Python, exceções são situações inesperadas que acontecem durante a execução de um programa e que podem interromper sua continuidade normal. Essas situações podem ocorrer por diversos motivos, como erros de entrada do usuário, problemas de digitação no código, entre outros.
